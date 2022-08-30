@@ -1,6 +1,6 @@
 ## Oi! Me chamo Andre Luis, Estudante Fullstack na trybe!
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=andre09999)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andre09999)](https://github.com/anuraghazra/github-readme-stats)
 <div style="display: inline_block"><br>
   - Estudante de
   <img align="center" alt="Andre-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
