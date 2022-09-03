@@ -32,11 +32,11 @@
   
   <div style="display: inline-block"><br>
    <p>De uma olhada em meu portifolio</p>
- <div style="display: flex">
+
   <a href=https://andre09999.github.io/projeto-android/ target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" target="_blank" height="30" width="40">Projeto Android</a>
   
   <a href=https://andre09999.github.io/App-De-Receitas/ target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" target="_blank" height="30" width="40">App de Receitas</a>
- </div>
+
   ![snake gif](https://github.com/andre09999/andreLuis/blob/output/github-contribution-grid-snake.svg)
 
 
