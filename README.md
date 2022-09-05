@@ -45,7 +45,6 @@
  
  <a href=https://andre09999.github.io/Trivia/ target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" target="_blank" height="30" width="40">Jogo Trivia</a>
  
-    
  ![snake gif](https://github.com/andre09999/andreLuis/blob/output/github-contribution-grid-snake.svg)
 
 
