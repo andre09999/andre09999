@@ -47,6 +47,6 @@
  
   ![snake gif](https://github.com/andre09999/andreLuis/blob/output/github-contribution-grid-snake.svg)
 
-![snake gif](https://github.com/andre09999/andre09999/blob/output/github-contribution-grid-snake.gif)
+  ![snake gif](https://github.com/andre09999/andreLuis/blob/output/github-contribution-grid-snake.gif)
  
 </div>
