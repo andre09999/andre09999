@@ -10,7 +10,9 @@
   <img align="center" alt="Andre-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
 <img align="center" alt="Andre-unix" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unix/unix-original.svg" />
  <img  align="center" alt="Andre-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
- <img  align="center" alt="Andre-node" height="30" width="40" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg)" />
+ <img  align="center" alt="Andre-node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
+  <img  align="center" alt="Andre-docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
+    <img  align="center" alt="Andre-docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
                             
   
   ##
