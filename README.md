@@ -1,4 +1,4 @@
-## Oi! Me chamo Andre Luis, Front-end!
+## Oi! Me chamo Andre Luis, Fullstack!
 
 <div style="display: inline_block"><br>
   -Desenvolvo em
