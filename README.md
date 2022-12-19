@@ -39,7 +39,6 @@
  
   <div style="display: inline_block">
   <br>
-   <div style="display: inline_block">
    <a href="https://portifoiliowebandre.netlify.app/" target="_blank"> <img src="https://user-images.githubusercontent.com/101289554/201396968-b16d5eaa-a34b-4133-aade-e24e90aa3c07.png" target="_blank" height="30" width="40">Portifolio</a>
   
   <a href="https://instagram.com/andreluisrs_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
