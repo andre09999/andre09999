@@ -22,10 +22,10 @@
   <img align="center" alt="Andre-linux" height="70"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" />
   <img align="center" alt="Andre-linux" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain-wordmark.svg" />
   <img align="center" alt="Andre-linux" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original-wordmark.svg" />
-                         
+    ##                       
   </div>
   <div> 
-  ##
+
   ![snake gif](https://github.com/andre09999/andre09999/blob/output/github-contribution-grid-snake.svg)
 </div> 
   
