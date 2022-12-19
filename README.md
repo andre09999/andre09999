@@ -36,16 +36,13 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andre09999&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
- 
-  <div style="display: inline_block">
-  <br>
-   <a href="https://portifoiliowebandre.netlify.app/" target="_blank"> <img src="https://user-images.githubusercontent.com/101289554/201396968-b16d5eaa-a34b-4133-aade-e24e90aa3c07.png" target="_blank" height="30" width="40">Portifolio</a>
+<div style="display: inline_block"><br>
+  <a href="https://portifoiliowebandre.netlify.app/" target="_blank"> <img src="https://user-images.githubusercontent.com/101289554/201396968-b16d5eaa-a34b-4133-aade-e24e90aa3c07.png" target="_blank" height="30" width="40">Portifolio</a>
   
   <a href="https://instagram.com/andreluisrs_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	
   <a href="https://www.linkedin.com/in/andre-luis-6536b377/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
-    
     
     
     
