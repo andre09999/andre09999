@@ -26,7 +26,7 @@
   
   ##
   ![snake gif](https://github.com/andre09999/andre09999/blob/output/github-contribution-grid-snake.svg)
- 
+  <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/andre09999/count.svg" /></p>
 <div> 
 <div align="center" >
   <img height="150em" src="https://github-readme-stats-beryl.vercel.app/api?username=andre09999&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
