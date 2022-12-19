@@ -27,15 +27,14 @@
   ##
   ![snake gif](https://github.com/andre09999/andre09999/blob/output/github-contribution-grid-snake.svg)
 <div> 
-<div align="center"  >
- 
-    <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/andre09999/count.svg" /></p>
+<div align="center" >
+  <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/andre09999/count.svg" /></p>
   <img height="150em" src="https://github-readme-stats-beryl.vercel.app/api?username=andre09999&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andre09999&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
  
-<div style="display: inline_block">
+  <div style="display: inline_block">
   <br>
    <div style="display: inline_block">
    <a href="https://portifoiliowebandre.netlify.app/" target="_blank"> <img src="https://user-images.githubusercontent.com/101289554/201396968-b16d5eaa-a34b-4133-aade-e24e90aa3c07.png" target="_blank" height="30" width="40">Portifolio</a>
@@ -43,7 +42,6 @@
   <a href="https://instagram.com/andreluisrs_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	
   <a href="https://www.linkedin.com/in/andre-luis-6536b377/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
   </div>
   <div style="display: inline-block"><br>
    <p>De uma olhada em meu portifolio</p>
