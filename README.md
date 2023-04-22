@@ -53,8 +53,9 @@
   
   <a href=https://andre09999.github.io/App-De-Receitas/ target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" target="_blank" height="30" width="40">App de Receitas</a>
     
-  <a href=https://andre09999.github.io/starwars-planets-search/ target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" target="_blank" height="30" width="40">Star wars Planets</a>
+  <a href=https://front-end-production-a1da.up.railway.app/login target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" target="_blank" height="30" width="40">Aplicação full stack App dellivery</a>
   
+   <a href=https://andre09999.github.io/TrybeWarts/ target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" target="_blank" height="30" width="40">Tryunfo</a>
   
   <a href=https://andre09999.github.io/Store/ target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" target="_blank" height="30" width="40">Online store</a>
  
