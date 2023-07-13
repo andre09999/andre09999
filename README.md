@@ -1,7 +1,7 @@
 ## Oi! Me chamo Andre Luis, Fullstack!
 ### Sobre mim
 <div align="center">
-  <img src="[https://avatars.githubusercontent.com/u/101289554?v=4](https://instagram.fgyn3-1.fna.fbcdn.net/v/t51.2885-19/320408694_549609503393882_3829832215615148390_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fgyn3-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=_6KrmMxjH-kAX8Scas1&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfDajKYXbL-GBv0UuQE7O_5PhxT0vrSoKQyU1C7I18oE5w&oe=64B5AE77&_nc_sid=8b3546)" alt="Foto de perfil" height="150" width="150" >
+  <img src="https://instagram.fgyn3-1.fna.fbcdn.net/v/t51.2885-19/320408694_549609503393882_3829832215615148390_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fgyn3-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=_6KrmMxjH-kAX8Scas1&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfDajKYXbL-GBv0UuQE7O_5PhxT0vrSoKQyU1C7I18oE5w&oe=64B5AE77&_nc_sid=8b3546" alt="Foto de perfil" height="150" width="150" >
 </div>
 
 Olá! Eu sou o Andre Luis, um desenvolvedor Fullstack apaixonado por construir aplicações web e mobile. Meu objetivo é criar soluções inovadoras e escaláveis que proporcionem uma ótima experiência ao usuário.
