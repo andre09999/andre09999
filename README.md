@@ -8,28 +8,17 @@
 
 Olá! Eu sou o Andre Luis, um desenvolvedor Fullstack apaixonado por construir aplicações web e mobile. Meu objetivo é criar soluções inovadoras e escaláveis que proporcionem uma ótima experiência ao usuário.
 
-#### Habilidades técnicas
+### Habilidades Técnicas
 
-- JavaScript
-- TypeScript
-- React
-- HTML
-- CSS
-- Python
-- Unix
-- Git
-- Node.js
-- Docker
-- MySQL
-- Express.js
-- Jest
-- Figma
-- GitHub
-- Linux
-- Slack
-- Trello
-- Visual Studio Code
-- AngularJS
+| Linguagens | Frameworks | Ferramentas |
+| --- | --- | --- |
+| JavaScript | React | Git |
+| TypeScript | HTML | Node.js |
+| CSS | CSS | Docker |
+| Python | Express.js | MySQL |
+| Unix | Jest | Figma |
+| ... | ... | ... |
+
 
 ### Projetos
 
