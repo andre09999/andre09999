@@ -47,7 +47,8 @@ Aqui estão alguns dos meus projetos mais recentes:
 
 ### Estatísticas
 
-![Estatísticas do GitHub](https://github-readme-stats-beryl.vercel.app/api?username=andre09999&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Andre GitHub stats](https://github-readme-stats.vercel.app/api?username=andre09999&show_icons=true&theme=radical)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andre09999&layout=compact&langs_count=7&theme=dark)
 
