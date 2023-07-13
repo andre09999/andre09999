@@ -33,9 +33,9 @@ Aqui estão alguns dos meus projetos mais recentes:
 - [Wallet](https://andre09999.github.io/Wallet/)
 - [Tryunfo](https://andre09999.github.io/TrybeWarts/) 
 
-### Estatísticas
-
-![Andre GitHub stats](https://github-readme-stats.vercel.app/api?username=andre09999&show_icons=true&theme=dark)          ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andre09999&layout=compact&langs_count=7&theme=dark)
+| Estatísticas do GitHub | Principais Linguagens |
+| :-------------------: | :------------------: |
+| ![Andre GitHub stats](https://github-readme-stats.vercel.app/api?username=andre09999&show_icons=true&theme=dark) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andre09999&layout=compact&langs_count=7&theme=dark) |
 
 ### Contato
 
