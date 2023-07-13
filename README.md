@@ -5,7 +5,7 @@ Olá! Eu sou o Andre Luis, um desenvolvedor Fullstack apaixonado por construir a
 
 <picture align="center">
   <img src="https://avatars.githubusercontent.com/u/101289554?v=4" alt="Foto de perfil" height="150" width="150" style="border-radius: 65%;">
-</div>
+</picture>
 
 ### Habilidades Técnicas
 
