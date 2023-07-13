@@ -18,6 +18,8 @@ Olá! Eu sou o Andre Luis, um desenvolvedor Fullstack apaixonado por construir a
     <img src="https://profile-counter.glitch.me/andre09999/count.svg" alt="Número de visitantes">
   </p>
 </div>
+
+<div align="center">
 ### Habilidades Técnicas
 
 | Linguagens | Frameworks | Ferramentas |
@@ -28,7 +30,10 @@ Olá! Eu sou o Andre Luis, um desenvolvedor Fullstack apaixonado por construir a
 | Python | Express.js | MySQL |
 | Unix | Jest | Figma |
 | ... | ... | ... |
+</div>
 
+<div align="center">
+  
 
 ### Projetos
 
@@ -43,7 +48,7 @@ Aqui estão alguns dos meus projetos mais recentes:
 - [Tunes](https://andre09999.github.io/Tunes/)
 - [Wallet](https://andre09999.github.io/Wallet/)
 - [Tryunfo](https://andre09999.github.io/TrybeWarts/) 
-
+</div>
 
 ### Contato
 
