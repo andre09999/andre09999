@@ -47,7 +47,9 @@ Aqui estão alguns dos meus projetos mais recentes:
 - [Jogo Trivia](https://andre09999.github.io/Trivia/)
 - [Tunes](https://andre09999.github.io/Tunes/)
 - [Wallet](https://andre09999.github.io/Wallet/)
-- [Tryunfo](https://andre09999.github.io/TrybeWarts/) 
+- [Tryunfo](https://andre09999.github.io/TrybeWarts/)
+- [Aplicação Backend em Node](https://github.com/andre09999/vagas)
+
 
 ## Experiência e Colaboração
 Além das habilidades técnicas, sou um colaborador eficaz em equipes multidisciplinares, comunicativo e orientado para resultados. Movido por desafios, sou apaixonado por aprender e enfrentar novas tecnologias e ferramentas.
