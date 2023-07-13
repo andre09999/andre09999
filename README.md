@@ -1,7 +1,7 @@
 ## Oi! Me chamo Andre Luis, Fullstack!
 
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/101289554?v=4" alt="Foto de perfil">
+  <img src="https://avatars.githubusercontent.com/u/101289554?v=4" alt="Foto de perfil" height="150" width="150" style="border-radius: 50%;">
 </div>
 
 ### Sobre mim
