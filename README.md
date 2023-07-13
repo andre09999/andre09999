@@ -35,15 +35,15 @@ Olá! Eu sou o Andre Luis, um desenvolvedor Fullstack apaixonado por construir a
 
 Aqui estão alguns dos meus projetos mais recentes:
 
-- [Aplicação Full Stack App Dellivery](https://front-end-production-a1da.up.railway.app/login) - Descrição breve do projeto.
-- [Projeto Android](https://andre09999.github.io/projeto-android/) - Descrição breve do projeto.
-- [App de Receitas](https://andre09999.github.io/App-De-Receitas/) - Descrição breve do projeto.
-- [Tryunfo](https://andre09999.github.io/TrybeWarts/) - Descrição breve do projeto.
-- [Online Store](https://andre09999.github.io/Store/) - Descrição breve do projeto.
-- [Jogo Trivia](https://andre09999.github.io/Trivia/) - Descrição breve do projeto.
-- [Tunes](https://andre09999.github.io/Tunes/) - Descrição breve do projeto.
-- [Wallet](https://andre09999.github.io/Wallet/) - Descrição breve do projeto.
-- [Tryunfo](https://andre09999.github.io/TrybeWarts/) - Descrição breve do projeto.
+- [Aplicação Full Stack App Dellivery](https://front-end-production-a1da.up.railway.app/login)
+- [Projeto Android](https://andre09999.github.io/projeto-android/)
+- [App de Receitas](https://andre09999.github.io/App-De-Receitas/)
+- [Tryunfo](https://andre09999.github.io/TrybeWarts/)
+- [Online Store](https://andre09999.github.io/Store/)
+- [Jogo Trivia](https://andre09999.github.io/Trivia/)
+- [Tunes](https://andre09999.github.io/Tunes/)
+- [Wallet](https://andre09999.github.io/Wallet/)
+- [Tryunfo](https://andre09999.github.io/TrybeWarts/) 
 
 ### Estatísticas
 
