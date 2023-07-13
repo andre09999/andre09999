@@ -4,7 +4,6 @@
 </div>
 
 ## Sobre mim 
-<br/>
 <h3>Olá! Sou o Andre Luis, um desenvolvedor Front-end apaixonado com sólida formação em Desenvolvimento Web e experiência prática em projetos de alto nível. Meu objetivo é criar interfaces web excepcionais que impulsionem a experiência do usuário e alcancem resultados mensuráveis.
 </h3>
 
