@@ -10,6 +10,14 @@ Olá! Eu sou o Andre Luis, um desenvolvedor Fullstack apaixonado por construir a
 | :-------------------: | :------------------: |
 | ![Andre GitHub stats](https://github-readme-stats.vercel.app/api?username=andre09999&show_icons=true&theme=dark) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andre09999&layout=compact&langs_count=7&theme=dark) |
 
+<div align="center">
+  <p align="center">
+    <img src="https://github.com/andre09999/andre09999/blob/output/github-contribution-grid-snake.svg" alt="snake gif">
+  </p>
+  <p align="center">
+    <img src="https://profile-counter.glitch.me/andre09999/count.svg" alt="Número de visitantes">
+  </p>
+</div>
 ### Habilidades Técnicas
 
 | Linguagens | Frameworks | Ferramentas |
@@ -43,11 +51,4 @@ Aqui estão alguns dos meus projetos mais recentes:
 - [Instagram](https://instagram.com/andreluisrs_)
 - [LinkedIn](https://www.linkedin.com/in/andre-luis-6536b377/)
 
-<div align="center">
-  <p align="center">
-    <img src="https://github.com/andre09999/andre09999/blob/output/github-contribution-grid-snake.svg" alt="snake gif">
-  </p>
-  <p align="center">
-    <img src="https://profile-counter.glitch.me/andre09999/count.svg" alt="Número de visitantes">
-  </p>
-</div>
+
