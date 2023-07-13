@@ -40,7 +40,6 @@ Estou constantemente atualizando meu conhecimento para acompanhar as últimas te
 
 Aqui estão alguns dos meus projetos mais recentes:
 
-- [Aplicação Full Stack App Dellivery](https://front-end-production-a1da.up.railway.app/login)
 - [Projeto Android](https://andre09999.github.io/projeto-android/)
 - [App de Receitas](https://andre09999.github.io/App-De-Receitas/)
 - [Tryunfo](https://andre09999.github.io/TrybeWarts/)
