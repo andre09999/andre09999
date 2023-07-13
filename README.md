@@ -8,7 +8,7 @@
 </h3>
 
 <div align="center">
-## Habilidades Técnicas
+<h3>Habilidades Técnicas</h3>
 
 | Linguagens | Frameworks | Ferramentas |
 | --- | --- | --- |
