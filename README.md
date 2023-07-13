@@ -6,6 +6,10 @@
 
 Olá! Eu sou o Andre Luis, um desenvolvedor Fullstack apaixonado por construir aplicações web e mobile. Meu objetivo é criar soluções inovadoras e escaláveis que proporcionem uma ótima experiência ao usuário.
 
+| Estatísticas do GitHub | Principais Linguagens |
+| :-------------------: | :------------------: |
+| ![Andre GitHub stats](https://github-readme-stats.vercel.app/api?username=andre09999&show_icons=true&theme=dark) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andre09999&layout=compact&langs_count=7&theme=dark) |
+
 ### Habilidades Técnicas
 
 | Linguagens | Frameworks | Ferramentas |
@@ -32,9 +36,6 @@ Aqui estão alguns dos meus projetos mais recentes:
 - [Wallet](https://andre09999.github.io/Wallet/)
 - [Tryunfo](https://andre09999.github.io/TrybeWarts/) 
 
-| Estatísticas do GitHub | Principais Linguagens |
-| :-------------------: | :------------------: |
-| ![Andre GitHub stats](https://github-readme-stats.vercel.app/api?username=andre09999&show_icons=true&theme=dark) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andre09999&layout=compact&langs_count=7&theme=dark) |
 
 ### Contato
 
