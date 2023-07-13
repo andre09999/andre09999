@@ -29,7 +29,7 @@ Estou constantemente atualizando meu conhecimento para acompanhar as últimas te
 
 <div align="center">
   <p align="center">
-    <img src="https://github.com/andre09999/andre09999/blob/output/github-contribution-grid-snake.svg" alt="snake gif">
+    <img src="https://github.com/andre09999/andre09999/blob/output/github-contribution-grid-snake.svg"  alt="snake gif">
   </p>
   <p align="center">
     <img src="https://profile-counter.glitch.me/andre09999/count.svg" alt="Número de visitantes">
