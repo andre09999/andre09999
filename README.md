@@ -54,6 +54,23 @@ Aqui estão alguns dos meus projetos mais recentes:
 ## Experiência e Colaboração
 Além das habilidades técnicas, sou um colaborador eficaz em equipes multidisciplinares, comunicativo e orientado para resultados. Movido por desafios, sou apaixonado por aprender e enfrentar novas tecnologias e ferramentas.
 
+| Licenças e Certificados                             |
+| --------------------------------------------------- |
+| Computer Science                                   |
+| JavaScript: Reactjs, Nodejs                        |
+| Desenvolvimento em Back End                        |
+| HTML5 e CSS3                                       |
+| Introdução a JSF para aplicação web                |
+| MySql - Explorando relacionamentos com Workbench   |
+| MySql - Trabalhando com as suas primeiras tabelas  |
+| Posicionando elementos com Flexbox em CSS          |
+| React                                              |
+| Desenvolvimento Front-end                           |
+| Inglês                                             |
+| Técnico em Informática                             |
+| Gestão de Recursos Humanos                         |
+| Desenvolvimento Web FullStack                       |
+
 ## Contato
 
 - [Portfólio](https://portifoiliowebandre.netlify.app/)
