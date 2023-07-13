@@ -3,7 +3,7 @@
 
 Olá! Eu sou o Andre Luis, um desenvolvedor Fullstack apaixonado por construir aplicações web e mobile. Meu objetivo é criar soluções inovadoras e escaláveis que proporcionem uma ótima experiência ao usuário.
 
-<div align="center">
+<picture align="center">
   <img src="https://avatars.githubusercontent.com/u/101289554?v=4" alt="Foto de perfil" height="150" width="150" style="border-radius: 65%;">
 </div>
 
