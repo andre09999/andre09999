@@ -32,9 +32,6 @@ Olá! Eu sou o Andre Luis, um desenvolvedor Fullstack apaixonado por construir a
 | ... | ... | ... |
 </div>
 
-<div align="center">
-  
-
 ### Projetos
 
 Aqui estão alguns dos meus projetos mais recentes:
@@ -48,7 +45,7 @@ Aqui estão alguns dos meus projetos mais recentes:
 - [Tunes](https://andre09999.github.io/Tunes/)
 - [Wallet](https://andre09999.github.io/Wallet/)
 - [Tryunfo](https://andre09999.github.io/TrybeWarts/) 
-</div>
+
 
 ### Contato
 
