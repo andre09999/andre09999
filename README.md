@@ -75,6 +75,6 @@ Além das habilidades técnicas, sou um colaborador eficaz em equipes multidisci
 
 - [Portfólio](https://portifoiliowebandre.netlify.app/)
 - [Instagram](https://instagram.com/andreluisrs_)
-- [LinkedIn](https://www.linkedin.com/in/andre-luis-6536b377/)
+- [LinkedIn](https://www.linkedin.com/in/dev-andre-front-end/)
 
 
