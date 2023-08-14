@@ -3,7 +3,7 @@
 andre09999@live.com
 +55 62 9 8610-7130
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/101289554?v=4" alt="Foto de perfil" height="150" width="150">
+  <img src="[https://avatars.githubusercontent.com/u/101289554?v=4](https://avatars.githubusercontent.com/u/101289554?v=4)" alt="Foto de perfil" height="150" width="150">
 </div>
 
 ## Sobre mim 
