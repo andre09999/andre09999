@@ -3,7 +3,7 @@
 andre09999@live.com
 +55 62 9 8610-7130
 <div align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZERl3M7ZCFze1qTtvb3N5wZyR7yDAIMTkmA&usqp=CA" alt="Foto de perfil" height="150" width="150">
+  <img src="https://scontent.cdninstagram.com/v/t51.2885-19/432597202_326845280366769_7864584548306447554_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent.cdninstagram.com&_nc_cat=109&_nc_ohc=JH4YkpWPCTUAX8hRkQX&edm=APs17CUBAAAA&ccb=7-5&oh=00_AfCOpdlb1k6y1WGpM95FUlbxDdN-0DJDXO2Rz3Uu6xVkuw&oe=65F6FA90&_nc_sid=10d13b" alt="Foto de perfil" height="150" width="150">
 </div>
 
 ## Sobre mim 
