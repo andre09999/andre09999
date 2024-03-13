@@ -42,7 +42,7 @@ Estou constantemente atualizando meu conhecimento para acompanhar as últimas te
 ## Projetos
 
 Aqui estão alguns dos meus projetos mais recentes:
-
+- [Projeto gerenciamento de Produtos](https://front-end-products.vercel.app/)
 - [Projeto Android](https://andre09999.github.io/projeto-android/)
 - [App de Receitas](https://andre09999.github.io/App-De-Receitas/)
 - [Tryunfo](https://andre09999.github.io/TrybeWarts/)
