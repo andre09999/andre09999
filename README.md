@@ -1,4 +1,4 @@
-## Desenvolvedor Front-end apaixonado em busca de desafios impactantes
+## Desenvolvedor Fullstack
 ## CONTATO
 andre09999@live.com
 +55 62 9 8610-7130
@@ -7,7 +7,7 @@ andre09999@live.com
 </div>
 
 ## Sobre mim 
-<h3>Olá! Sou o Andre Luis, um desenvolvedor Front-end apaixonado com sólida formação em Desenvolvimento Web e experiência prática em projetos de alto nível. Meu objetivo é criar interfaces web excepcionais que impulsionem a experiência do usuário e alcancem resultados mensuráveis.
+<h3>Desenvolvedor Full Stack com expertise em HTML, CSS, JavaScript, React, Node.js, Kotlin e MySQL. Busco desafios em equipes dinâmicas, focado em criar interfaces excepcionais e atualizado com as últimas tendências do setor. Sou comunicativo, orientado para resultados e apaixonado por aprender e enfrentar novas tecnologias. Estou em busca de oportunidades para contribuir em projetos de alto nível e superar as expectativas dos usuários.
 </h3>
 
 <div align="center">
