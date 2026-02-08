@@ -1,5 +1,5 @@
 # 👨‍💻 André Luis Ribeiro de Souza
-### Desenvolvedor Full Stack | Sistemas Web orientados a Dados
+### Desenvolvedor Full Stack | Sistemas Web | Dados, BI e IA Aplicada
 
 📍 Goiânia – GO  
 📧 andre09999@live.com  
@@ -13,30 +13,34 @@
 
 ## 🧠 Sobre mim
 
-Sou **Desenvolvedor Full Stack** com foco na construção de **sistemas web escaláveis, APIs e soluções orientadas a dados**, unindo front-end, back-end e banco de dados para gerar valor real ao negócio.
+Sou **Desenvolvedor Full Stack** com foco na criação de **sistemas web escaláveis, APIs e soluções orientadas a dados**, conectando front-end, back-end e banco de dados para gerar valor real ao negócio.
 
-Atuo com **React, Node.js, SQL e bancos relacionais e não relacionais**, desenvolvendo aplicações completas, integrações e dashboards analíticos. Possuo base em **Business Intelligence**, utilizando dados para apoiar decisões e melhorar processos.
+Atuo com **React, Node.js, SQL e bancos relacionais e não relacionais**, desenvolvendo aplicações completas, integrações e dashboards analíticos.
 
-Tenho perfil analítico, sou comunicativo, orientado a resultados e estou em constante evolução técnica, sempre buscando boas práticas, organização de código e soluções eficientes.
+Possuo base em **Análise de Dados, Business Intelligence e IA aplicada**, utilizando dados para gerar insights, otimizar processos e apoiar a tomada de decisão.
+
+Tenho perfil analítico, boa comunicação e foco em resultados, sempre aplicando boas práticas, organização de código e soluções eficientes.
 
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
 
-| Linguagens     | Frameworks / Bibliotecas | Ferramentas & Dados |
-|---------------|--------------------------|---------------------|
-| JavaScript    | React                    | Git & GitHub        |
-| TypeScript   | Node.js                  | Docker              |
-| Python        | Express.js               | MySQL               |
-| SQL           | Jest                     | Power BI            |
-| Unix / Linux  |                           | Figma               |
+| Linguagens | Frameworks / Bibliotecas | Dados & Ferramentas |
+|---|---|---|
+| JavaScript | React | SQL |
+| TypeScript | Node.js | Power BI |
+| Python | Express.js | MySQL |
+| SQL | Jest | ETL / Data Analysis |
+| Linux / Unix | | Git & GitHub |
+| | | Docker |
+| | | Figma |
 
 ---
 
 ## 📊 Estatísticas
 
 | GitHub Stats | Linguagens Mais Usadas |
-| :----------: | :--------------------: |
+| :---: | :---: |
 | ![Andre GitHub stats](https://github-readme-stats.vercel.app/api?username=andre09999&show_icons=true&theme=dark) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andre09999&layout=compact&langs_count=7&theme=dark) |
 
 <div align="center">
@@ -47,35 +51,45 @@ Tenho perfil analítico, sou comunicativo, orientado a resultados e estou em con
 
 ## 🚀 Projetos em Destaque
 
-- 🔹 **Sistema de Gerenciamento de Produtos (Full Stack)**  
-  https://front-end-products.vercel.app/
-
-- 🔹 **Aplicação Backend em Node.js (APIs e Banco de Dados)**  
-  https://github.com/andre09999/vagas
-
-- 🔹 **Projeto Android (Kotlin)**  
-  https://andre09999.github.io/projeto-android/
-
-- 🔹 **App de Receitas (React)**  
-  https://andre09999.github.io/App-De-Receitas/
-
-*(Outros projetos estão disponíveis nos repositórios)*
+### 🔹 Sistema de Gerenciamento de Produtos (Full Stack)
+Aplicação web completa com front-end, back-end e banco de dados.  
+👉 https://front-end-products.vercel.app/
 
 ---
 
-## 🤝 Experiência & Colaboração
+### 🔹 Backend Node.js – APIs e Integração com Banco
+Construção de APIs REST, modelagem e manipulação de dados.  
+👉 https://github.com/andre09999/vagas
 
-Tenho experiência em trabalho colaborativo, atuando em equipes multidisciplinares, com boa comunicação e foco em entrega. Busco sempre alinhar tecnologia, dados e negócio para resolver problemas reais.
+---
+
+### 🔹 Projeto Android (Kotlin)
+Aplicação mobile com foco em organização e experiência do usuário.  
+👉 https://andre09999.github.io/projeto-android/
+
+---
+
+### 🔹 App de Receitas (React)
+Interface dinâmica e responsiva utilizando boas práticas de front-end.  
+👉 https://andre09999.github.io/App-De-Receitas/
+
+---
+
+## 🤝 Colaboração e Perfil Profissional
+
+Experiência em trabalho colaborativo, atuando em equipes multidisciplinares, com comunicação clara e foco em entrega.
+
+Busco sempre alinhar **tecnologia, dados e negócio** para resolver problemas reais.
 
 ---
 
 ## 🎓 Formação & Certificações
 
+- Pós-graduação em Análise e Desenvolvimento de Sistemas  
 - Desenvolvimento Web Full Stack  
-- Análise e Desenvolvimento de Sistemas  
 - Banco de Dados MySQL (Modelagem e Consultas)  
 - Desenvolvimento Back-end (Node.js)  
-- React & Front-end Moderno  
+- React e Front-end Moderno  
 - Técnico em Informática  
 - Gestão de Recursos Humanos  
 - Inglês Técnico  
@@ -84,7 +98,8 @@ Tenho experiência em trabalho colaborativo, atuando em equipes multidisciplinar
 
 ## 🔗 Contato & Redes
 
-- 🌐 Portfólio: https://portifoiliowebandre.netlify.app/  
-- 💼 LinkedIn: https://www.linkedin.com/in/dev-andre-front-end/  
-- 📸 Instagram: https://instagram.com/andreluisrs_
+🌐 Portfólio → https://portifoiliowebandre.netlify.app/  
+💼 LinkedIn → https://www.linkedin.com/in/dev-andre-front-end/  
+📸 Instagram → https://instagram.com/andreluisrs_  
 
+---
