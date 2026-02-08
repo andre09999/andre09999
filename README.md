@@ -1,83 +1,90 @@
-## Desenvolvedor Fullstack
-## CONTATO
-andre09999@live.com
-+55 62 9 8610-7130
-<div align="center">
-  <img src="https://scontent.cdninstagram.com/v/t51.2885-19/432597202_326845280366769_7864584548306447554_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent.cdninstagram.com&_nc_cat=109&_nc_ohc=JH4YkpWPCTUAX8hRkQX&edm=APs17CUBAAAA&ccb=7-5&oh=00_AfCOpdlb1k6y1WGpM95FUlbxDdN-0DJDXO2Rz3Uu6xVkuw&oe=65F6FA90&_nc_sid=10d13b" alt="Foto de perfil" height="150" width="150">
-</div>
+# 👨‍💻 André Luis Ribeiro de Souza
+### Desenvolvedor Full Stack | Sistemas Web orientados a Dados
 
-## Sobre mim 
-<h3>Desenvolvedor Full Stack com expertise em HTML, CSS, JavaScript, React, Node.js, Kotlin e MySQL. Busco desafios em equipes dinâmicas, focado em criar interfaces excepcionais e atualizado com as últimas tendências do setor. Sou comunicativo, orientado para resultados e apaixonado por aprender e enfrentar novas tecnologias. Estou em busca de oportunidades para contribuir em projetos de alto nível e superar as expectativas dos usuários.
-</h3>
+📍 Goiânia – GO  
+📧 andre09999@live.com  
+📞 +55 (62) 9 8610-7130  
 
 <div align="center">
-<h3>Habilidades Técnicas</h3>
-
-| Linguagens | Frameworks | Ferramentas |
-| --- | --- | --- |
-| JavaScript | React | Git |
-| TypeScript | HTML | Node.js |
-| CSS | CSS | Docker |
-| Python | Express.js | MySQL |
-| Unix | Jest | Figma |
-| ... | ... | ... |
+  <img src="https://media.licdn.com/dms/image/v2/D4D03AQHFQIo-tFo1Aw/profile-displayphoto-crop_800_800/B4DZwtirMJJwAM-/0/1770290592131?e=1772064000&v=beta&t=gxj_PfKXJIML2bzZGKJxL8XHrFY4m5CAqyjFv5ny2b8" alt="Foto de perfil" width="150"/>
 </div>
 
-Estou constantemente atualizando meu conhecimento para acompanhar as últimas tendências e melhores práticas do setor. Foco em criar soluções inovadoras, responsivas e intuitivas que superem as expectativas dos usuários.
+---
 
+## 🧠 Sobre mim
 
-| Estatísticas do GitHub | Principais Linguagens |
-| :-------------------: | :------------------: |
+Sou **Desenvolvedor Full Stack** com foco na construção de **sistemas web escaláveis, APIs e soluções orientadas a dados**, unindo front-end, back-end e banco de dados para gerar valor real ao negócio.
+
+Atuo com **React, Node.js, SQL e bancos relacionais e não relacionais**, desenvolvendo aplicações completas, integrações e dashboards analíticos. Possuo base em **Business Intelligence**, utilizando dados para apoiar decisões e melhorar processos.
+
+Tenho perfil analítico, sou comunicativo, orientado a resultados e estou em constante evolução técnica, sempre buscando boas práticas, organização de código e soluções eficientes.
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+| Linguagens     | Frameworks / Bibliotecas | Ferramentas & Dados |
+|---------------|--------------------------|---------------------|
+| JavaScript    | React                    | Git & GitHub        |
+| TypeScript   | Node.js                  | Docker              |
+| Python        | Express.js               | MySQL               |
+| SQL           | Jest                     | Power BI            |
+| Unix / Linux  |                           | Figma               |
+
+---
+
+## 📊 Estatísticas
+
+| GitHub Stats | Linguagens Mais Usadas |
+| :----------: | :--------------------: |
 | ![Andre GitHub stats](https://github-readme-stats.vercel.app/api?username=andre09999&show_icons=true&theme=dark) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andre09999&layout=compact&langs_count=7&theme=dark) |
 
 <div align="center">
-  <p align="center">
-    <img src="https://github.com/andre09999/andre09999/blob/output/github-contribution-grid-snake.svg"  alt="snake gif">
-  </p>
-  <p align="center">
-    <img src="https://profile-counter.glitch.me/andre09999/count.svg" alt="Número de visitantes">
-  </p>
+  <img src="https://github.com/andre09999/andre09999/blob/output/github-contribution-grid-snake.svg" alt="snake gif"/>
 </div>
 
-## Projetos
+---
 
-Aqui estão alguns dos meus projetos mais recentes:
-- [Projeto gerenciamento de Produtos](https://front-end-products.vercel.app/)
-- [Projeto Android](https://andre09999.github.io/projeto-android/)
-- [App de Receitas](https://andre09999.github.io/App-De-Receitas/)
-- [Tryunfo](https://andre09999.github.io/TrybeWarts/)
-- [Online Store](https://andre09999.github.io/Store/)
-- [Jogo Trivia](https://andre09999.github.io/Trivia/)
-- [Tunes](https://andre09999.github.io/Tunes/)
-- [Wallet](https://andre09999.github.io/Wallet/)
-- [Tryunfo](https://andre09999.github.io/TrybeWarts/)
-- [Aplicação Backend em Node](https://github.com/andre09999/vagas)
+## 🚀 Projetos em Destaque
 
+- 🔹 **Sistema de Gerenciamento de Produtos (Full Stack)**  
+  https://front-end-products.vercel.app/
 
-## Experiência e Colaboração
-Além das habilidades técnicas, sou um colaborador eficaz em equipes multidisciplinares, comunicativo e orientado para resultados. Movido por desafios, sou apaixonado por aprender e enfrentar novas tecnologias e ferramentas.
+- 🔹 **Aplicação Backend em Node.js (APIs e Banco de Dados)**  
+  https://github.com/andre09999/vagas
 
-| Licenças e Certificados                             |
-| --------------------------------------------------- |
-| Computer Science                                   |
-| JavaScript: Reactjs, Nodejs                        |
-| Desenvolvimento em Back End                        |
-| HTML5 e CSS3                                       |
-| Introdução a JSF para aplicação web                |
-| MySql - Explorando relacionamentos com Workbench   |
-| MySql - Trabalhando com as suas primeiras tabelas  |
-| Posicionando elementos com Flexbox em CSS          |
-| React                                              |
-| Desenvolvimento Front-end                           |
-| Inglês                                             |
-| Técnico em Informática                             |
-| Gestão de Recursos Humanos                         |
-| Desenvolvimento Web FullStack                       |
+- 🔹 **Projeto Android (Kotlin)**  
+  https://andre09999.github.io/projeto-android/
 
-## Contato
+- 🔹 **App de Receitas (React)**  
+  https://andre09999.github.io/App-De-Receitas/
 
-- [Portfólio](https://portifoiliowebandre.netlify.app/)
-- [Instagram](https://instagram.com/andreluisrs_)
-- [LinkedIn](https://www.linkedin.com/in/dev-andre-front-end/)
+*(Outros projetos estão disponíveis nos repositórios)*
 
+---
+
+## 🤝 Experiência & Colaboração
+
+Tenho experiência em trabalho colaborativo, atuando em equipes multidisciplinares, com boa comunicação e foco em entrega. Busco sempre alinhar tecnologia, dados e negócio para resolver problemas reais.
+
+---
+
+## 🎓 Formação & Certificações
+
+- Desenvolvimento Web Full Stack  
+- Análise e Desenvolvimento de Sistemas  
+- Banco de Dados MySQL (Modelagem e Consultas)  
+- Desenvolvimento Back-end (Node.js)  
+- React & Front-end Moderno  
+- Técnico em Informática  
+- Gestão de Recursos Humanos  
+- Inglês Técnico  
+
+---
+
+## 🔗 Contato & Redes
+
+- 🌐 Portfólio: https://portifoiliowebandre.netlify.app/  
+- 💼 LinkedIn: https://www.linkedin.com/in/dev-andre-front-end/  
+- 📸 Instagram: https://instagram.com/andreluisrs_
 
