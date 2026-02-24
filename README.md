@@ -37,17 +37,23 @@ Tenho perfil analítico, boa comunicação e foco em resultados, sempre aplicand
 
 ---
 
-## 📊 GitHub Analytics
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andre09999&theme=github_dark)
-
-![](https://github-readme-streak-stats.herokuapp.com?user=andre09999&theme=github-dark&hide_border=true)
-
-## 🐍 Contributions
+## 🚀 Developer Analytics
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andre09999/andre09999/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andre09999&theme=github_dark"/>
 </p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-activity-graph.vercel.app/graph?username=andre09999&theme=github-dark"/>
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=andre09999&theme=github-dark"/>
+</p>
+
+## 📈 Contribution Graph
+
+![Andre's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=andre09999&theme=github-dark)
 ---
 
 ## 🚀 Projetos em Destaque
