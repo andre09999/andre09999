@@ -51,11 +51,11 @@ Tenho perfil analítico, boa comunicação e foco em resultados, sempre aplicand
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=andre09999&theme=github-dark"/>
 </p>
 
-## 📈 Contribution Graph
+## 🐍 Contribution Activity
 
-## ⏱️ Weekly Coding Stats
-
-![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=andre09999)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andre09999/andre09999/output/github-contribution-grid-snake-dark.svg" />
+</p>
 ---
 
 ## 🚀 Projetos em Destaque
