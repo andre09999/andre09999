@@ -36,12 +36,11 @@ Tenho perfil analítico, boa comunicação e foco em resultados, sempre aplicand
 | | | Figma |
 
 ---
-## 🛠️ Tech Stack
+## 📊 Linguagens
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,python,fastapi,mysql,docker,linux,git&theme=dark" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=andre09999&layout=compact&theme=github_dark"/>
 </p>
-
 ## 🚀 Developer Analytics
 
 <p align="center">
