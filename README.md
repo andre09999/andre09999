@@ -53,7 +53,9 @@ Tenho perfil analítico, boa comunicação e foco em resultados, sempre aplicand
 
 ## 📈 Contribution Graph
 
-![Andre's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=andre09999&theme=github-dark)
+## ⏱️ Weekly Coding Stats
+
+![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SEU_USERNAME)
 ---
 
 ## 🚀 Projetos em Destaque
