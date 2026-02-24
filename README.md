@@ -55,7 +55,7 @@ Tenho perfil analítico, boa comunicação e foco em resultados, sempre aplicand
 
 ## ⏱️ Weekly Coding Stats
 
-![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SEU_USERNAME)
+![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=andre09999)
 ---
 
 ## 🚀 Projetos em Destaque
