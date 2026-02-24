@@ -37,11 +37,11 @@ Tenho perfil analítico, boa comunicação e foco em resultados, sempre aplicand
 
 ---
 
-## 📊 Estatísticas
+## 📊 GitHub Analytics
 
-| GitHub Stats | Linguagens Mais Usadas |
-| :---: | :---: |
-| ![Andre GitHub stats](https://github-readme-stats.vercel.app/api?username=andre09999&show_icons=true&theme=dark) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andre09999&layout=compact&langs_count=7&theme=dark) |
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andre09999&theme=github_dark)
+
+![](https://github-readme-streak-stats.herokuapp.com?user=andre09999&theme=github-dark&hide_border=true)
 
 ## 🐍 Contribution Snake
 
