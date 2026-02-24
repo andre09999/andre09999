@@ -36,11 +36,10 @@ Tenho perfil analítico, boa comunicação e foco em resultados, sempre aplicand
 | | | Figma |
 
 ---
-## 💻 Linguagens & Atividade
+## 📊 Linguagens Mais Utilizadas
 
 <p align="center">
-  <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=andre09999&theme=github_dark"/>
-  <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=andre09999&theme=github_dark"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=andre09999&theme=github_dark"/>
 </p>
 
 ## 🚀 Developer Analytics
