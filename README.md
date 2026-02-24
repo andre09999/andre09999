@@ -43,9 +43,9 @@ Tenho perfil analítico, boa comunicação e foco em resultados, sempre aplicand
 | :---: | :---: |
 | ![Andre GitHub stats](https://github-readme-stats.vercel.app/api?username=andre09999&show_icons=true&theme=dark) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andre09999&layout=compact&langs_count=7&theme=dark) |
 
-<div align="center">
-  <img src="https://github.com/andre09999/andre09999/blob/output/github-contribution-grid-snake.svg" alt="snake gif"/>
-</div>
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/andre09999/andre09999/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
