@@ -43,10 +43,11 @@ Tenho perfil analítico, boa comunicação e foco em resultados, sempre aplicand
 
 ![](https://github-readme-streak-stats.herokuapp.com?user=andre09999&theme=github-dark&hide_border=true)
 
-## 🐍 Contribution Snake
+## 🐍 Contributions
 
-![snake gif](https://github.com/andre09999/andre09999/blob/output/github-contribution-grid-snake.svg)
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andre09999/andre09999/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+</p>
 ---
 
 ## 🚀 Projetos em Destaque
