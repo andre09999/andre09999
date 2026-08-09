@@ -1,123 +1,69 @@
-# 👨‍💻 André Luis Ribeiro de Souza
-### Desenvolvedor Full Stack | Sistemas Web | Dados, BI e IA Aplicada
+<div align="center">
 
-📍 Goiânia – GO  
-📧 andre09999@live.com  
-📞 +55 (62) 9 8610-7130  
+# André Luis Ribeiro de Souza
+
+### Desenvolvedor Full Stack | React • Node.js • TypeScript | Dados & BI
+
+📍 Goiânia, Goiás, Brasil • Disponível para oportunidades remotas ou presenciais em Goiânia
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-andre-front-end/)
+[![Portfólio](https://img.shields.io/badge/Portfólio-111111?style=for-the-badge&logo=netlify&logoColor=00C7B7)](https://portifoiliowebandre.netlify.app/)
+[![E-mail](https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andre09999@live.com)
+
+</div>
+
+## Perfil profissional
+
+Desenvolvo aplicações web completas, conectando interfaces responsivas, APIs e bancos de dados para resolver necessidades reais de negócio. Minha principal atuação combina **React, TypeScript, Node.js, SQL e análise de dados**.
+
+Também aplico conhecimentos de **Business Intelligence, Power BI, Python e ETL** na construção de indicadores, automações e soluções orientadas a dados. Tenho perfil analítico, comunicação clara e foco em entregas organizadas, úteis e mensuráveis.
+
+## Competências técnicas
+
+| Área | Tecnologias |
+|---|---|
+| Front-end | React, TypeScript, JavaScript, HTML, CSS, Bootstrap |
+| Back-end | Node.js, Express.js, APIs REST e autenticação |
+| Dados e BI | SQL, Power BI, ETL, Python, MySQL e PostgreSQL |
+| Qualidade | Jest, Cypress, organização de código e documentação |
+| Ferramentas | Git, GitHub, Docker, Linux e Figma |
+
+## Projetos em destaque
+
+| Projeto | O que demonstra | Tecnologias |
+|---|---|---|
+| [Business Insights Platform](https://github.com/andre09999/business-insights-plataform) | Arquitetura full stack para soluções e indicadores orientados a dados | TypeScript, Python e Docker |
+| [Sistema de Gerenciamento de Produtos](https://front-end-products.vercel.app/) | Aplicação completa com autenticação, cadastro e operações CRUD | React, Node.js e PostgreSQL |
+| [API de Produtos](https://github.com/andre09999/apiProducts) | API REST com autenticação, rotas protegidas e persistência de dados | Node.js, Express, Sequelize e PostgreSQL |
+| [E-commerce de Games](https://github.com/andre09999/ecommerce-games) | Carrinho de compras, cálculos dinâmicos e experiência responsiva | React e Redux |
+
+## Como trabalho
+
+- Transformo requisitos de negócio em soluções digitais objetivas.
+- Integro front-end, APIs e bancos de dados.
+- Organizo o código para facilitar manutenção e evolução.
+- Utilizo dados e indicadores para apoiar decisões.
+- Valorizo comunicação clara, documentação e melhoria contínua.
+
+## Formação e desenvolvimento
+
+- Pós-graduação em Análise e Desenvolvimento de Sistemas
+- Desenvolvimento Web Full Stack
+- Gestão de Recursos Humanos
+- Aperfeiçoamento contínuo em Power BI, SQL, Python, UX e IA aplicada
+
+## Atividade no GitHub
 
 <div align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D03AQHFQIo-tFo1Aw/profile-displayphoto-crop_800_800/B4DZwtirMJJwAM-/0/1770290592131?e=1772064000&v=beta&t=gxj_PfKXJIML2bzZGKJxL8XHrFY4m5CAqyjFv5ny2b8" alt="Foto de perfil" width="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andre09999&theme=github_dark" alt="Resumo de contribuições de André Luis"/>
 </div>
 
 ---
 
-## 🧠 Sobre mim
+<div align="center">
 
-Sou **Desenvolvedor Full Stack** com foco na criação de **sistemas web escaláveis, APIs e soluções orientadas a dados**, conectando front-end, back-end e banco de dados para gerar valor real ao negócio.
+### Vamos conversar?
 
-Atuo com **React, Node.js, SQL e bancos relacionais e não relacionais**, desenvolvendo aplicações completas, integrações e dashboards analíticos.
+[LinkedIn](https://www.linkedin.com/in/dev-andre-front-end/) • [Portfólio](https://portifoiliowebandre.netlify.app/) • [E-mail](mailto:andre09999@live.com)
 
-Possuo base em **Análise de Dados, Business Intelligence e IA aplicada**, utilizando dados para gerar insights, otimizar processos e apoiar a tomada de decisão.
-
-Tenho perfil analítico, boa comunicação e foco em resultados, sempre aplicando boas práticas, organização de código e soluções eficientes.
-
----
-
-## 🛠️ Tecnologias & Ferramentas
-
-| Linguagens | Frameworks / Bibliotecas | Dados & Ferramentas |
-|---|---|---|
-| JavaScript | React | SQL |
-| TypeScript | Node.js | Power BI |
-| Python | Express.js | MySQL |
-| SQL | Jest | ETL / Data Analysis |
-| Linux / Unix | | Git & GitHub |
-| | | Docker |
-| | | Figma |
-
----
-## 🛠️ Stack Principal
-
-<p align="center">
-  <img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js&logoColor=339933"/>
-  <img src="https://img.shields.io/badge/Express-111111?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-111111?style=for-the-badge&logo=fastapi&logoColor=009688"/>
-  <img src="https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
-  <img src="https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=2496ED"/>
-</p>
-## 🚀 Developer Analytics
-
-<p align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andre09999&theme=github_dark"/>
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-activity-graph.vercel.app/graph?username=andre09999&theme=github-dark"/>
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=andre09999&theme=github-dark"/>
-</p>
-
-## 🐍 Contribution Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andre09999/andre09999/output/github-contribution-grid-snake-dark.svg" />
-</p>
----
-
-## 🚀 Projetos em Destaque
-
-### 🔹 Sistema de Gerenciamento de Produtos (Full Stack)
-Aplicação web completa com front-end, back-end e banco de dados.  
-👉 https://front-end-products.vercel.app/
-
----
-
-### 🔹 Backend Node.js – APIs e Integração com Banco
-Construção de APIs REST, modelagem e manipulação de dados.  
-👉 https://github.com/andre09999/vagas
-
----
-
-### 🔹 Projeto Android (Kotlin)
-Aplicação mobile com foco em organização e experiência do usuário.  
-👉 https://andre09999.github.io/projeto-android/
-
----
-
-### 🔹 App de Receitas (React)
-Interface dinâmica e responsiva utilizando boas práticas de front-end.  
-👉 https://andre09999.github.io/App-De-Receitas/
-
----
-
-## 🤝 Colaboração e Perfil Profissional
-
-Experiência em trabalho colaborativo, atuando em equipes multidisciplinares, com comunicação clara e foco em entrega.
-
-Busco sempre alinhar **tecnologia, dados e negócio** para resolver problemas reais.
-
----
-
-## 🎓 Formação & Certificações
-
-- Pós-graduação em Análise e Desenvolvimento de Sistemas  
-- Desenvolvimento Web Full Stack  
-- Banco de Dados MySQL (Modelagem e Consultas)  
-- Desenvolvimento Back-end (Node.js)  
-- React e Front-end Moderno  
-- Técnico em Informática  
-- Gestão de Recursos Humanos  
-- Inglês Técnico  
-
----
-
-## 🔗 Contato & Redes
-
-🌐 Portfólio → https://portifoiliowebandre.netlify.app/  
-💼 LinkedIn → https://www.linkedin.com/in/dev-andre-front-end/  
-📸 Instagram → https://instagram.com/andreluisrs_  
-
----
+</div>
